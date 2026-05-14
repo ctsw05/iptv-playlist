@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="WSLS" tvg-logo="https://images.smartcdn.org/streams/6030.png" group-title="News",WSLS 10
 https://dai.google.com/linear/hls/pa/event/de2sE_-7SOutXi_iQ56mKQ/stream/80247461-5b8d-40b5-a27e-d74fb8d97ab9:MRN2/variant/64a4d53238dbfc8d9570512058909295/bandwidth/1812800.m3u8
 #EXTINF:-1 tvg-id="WDBJDT" tvg-logo="https://images.smartcdn.org/streams/5588.png" group-title="News",WDBJ7 CBS
-https://dai.google.com/linear/hls/pa/event/WcE0K-O9SHSB3dvYgOi1Lw/stream/55bbec4e-3801-4d17-b3e4-353bb3e38314:CBF2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/WcE0K-O9SHSB3dvYgOi1Lw/stream/9a16fc72-d95c-470e-94ef-04938878d709:CBF2/variant/feb6b899d93a63aaaf54ce8ec70d9a64/bandwidth/1374000.m3u8
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-logo="https://images.tvpass.org/streams/1.png" group-title="Entertainment",A&E US Eastern Feed
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://images.tvpass.org/streams/3.png" group-title="Live TV",ABC (KABC) Los Angeles
