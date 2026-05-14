@@ -1,9 +1,15 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="WSLS" tvg-logo="https://images.smartcdn.org/streams/6030.png" group-title="News",WSLS 10
+https://dai.google.com/linear/hls/pa/event/de2sE_-7SOutXi_iQ56mKQ/stream/80247461-5b8d-40b5-a27e-d74fb8d97ab9:MRN2/variant/64a4d53238dbfc8d9570512058909295/bandwidth/1812800.m3u8
+#EXTINF:-1 tvg-id="WDBJDT" tvg-logo="https://images.smartcdn.org/streams/5588.png" group-title="News",WDBJ7 CBS
+https://dai.google.com/linear/hls/pa/event/WcE0K-O9SHSB3dvYgOi1Lw/stream/744b71a7-c10d-4731-b78d-75b3c60dd08e:ATL/variant/feb6b899d93a63aaaf54ce8ec70d9a64/bandwidth/1374000.m3u8
+#EXTINF:-1 tvg-id="WVVADT" tvg-logo="https://images.smartcdn.org/streams/6047.png" group-title="News",WVVA NBC
+https://dai.google.com/linear/hls/pa/event/kjro18DERcabiEqbYDyTnQ/stream/077471c4-f59c-4057-bee8-9cf116b9bd2a:ATL/variant/824cbf6d646366a061a56966575cdfb5/bandwidth/1374000.m3u8
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-logo="https://images.tvpass.org/streams/1.png" group-title="Entertainment",A&E US Eastern Feed
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-logo="https://images.tvpass.org/streams/3.png" group-title="Live TV",ABC (KABC) Los Angeles
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-logo="https://images.tvpass.org/streams/3.png" group-title="Live TV",PBS (WNET) New York, NY
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-logo="https://images.tvpass.org/streams/3.png" group-title="Live TV",ABC (WNET) New York, NY
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 tvg-id="acc-network" tvg-logo="https://images.tvpass.org/streams/4.png" group-title="Sports",ACC Network
 https://tvpass.org/live/ACCNetwork/hd
@@ -181,9 +187,9 @@ https://tvpass.org/live/IFCEast/hd
 https://tvpass.org/live/InvestigationDiscoveryEast/hd
 #EXTINF:-1 tvg-id="ion-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ion_Media_logo.svg/330px-Ion_Media_logo.svg.png" group-title="Entertainment",ION Eastern Feed
 https://tvpass.org/live/IONTVEast/hd
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="Entertainment",Lifetime Movies East
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-logo="https://images.smartcdn.org/streams/107.png" group-title="Entertainment",Lifetime Movies East
 https://tvpass.org/live/LifetimeMoviesEast/hd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime Network US Eastern Feed
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://images.smartcdn.org/streams/108.png" group-title="Entertainment",Lifetime Network US Eastern Feed
 https://tvpass.org/live/LifetimeEast/hd
 #EXTINF:-1 tvg-id="logo-east" tvg-logo="https://images.tvpass.org/streams/109.png" group-title="Entertainment",LOGO East
 https://tvpass.org/live/LogoEast/hd
@@ -261,7 +267,7 @@ https://tvpass.org/live/SECN/hd
 https://tvpass.org/live/ShowtimeEast/hd
 #EXTINF:-1 tvg-id="showtime-2-eastern" tvg-logo="https://images.tvpass.org/streams/125.png" group-title="Movies",Showtime 2 Eastern
 https://tvpass.org/live/Showtime2East/hd
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="Sports",SNY Sportsnet New York Comcast
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-logo="https://images.tvpass.org/streams/128.png" group-title="Sports",SNY Sportsnet New York Comcast
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
 #EXTINF:-1 tvg-id="space-city-home-network" tvg-logo="https://images.tvpass.org/streams/129.png" group-title="Entertainment",Space City Home Network
 https://tvpass.org/live/space-city-home-network/hd
@@ -311,21 +317,21 @@ https://tvpass.org/live/TNTEast/hd
 https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" group-title="Reality",truTV USA Eastern
 https://tvpass.org/live/truTVEast/hd
-#EXTINF:-1 tvg-id="tsn1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN1
+#EXTINF:-1 tvg-id="tsn1" tvg-logo="https://images.smartcdn.org/streams/6229.png" group-title="Sports",TSN1
 https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 tvg-id="tsn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Sports",TSN2
+#EXTINF:-1 tvg-id="tsn2" tvg-logo="https://images.smartcdn.org/streams/6230.png" group-title="Sports",TSN2
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="tsn3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="Sports",TSN3
 https://tvpass.org/live/tsn3/hd
 #EXTINF:-1 tvg-id="tsn4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="Sports",TSN4
 https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 tvg-id="tsn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="Sports",TSN5
+#EXTINF:-1 tvg-id="tsn5" tvg-logo="https://images.smartcdn.org/streams/6233.png" group-title="Sports",TSN5
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="Movies",Turner Classic Movies USA
 https://tvpass.org/live/TCMEast/hd
 #EXTINF:-1 tvg-id="tv-land-eastern" tvg-logo="https://images.tvpass.org/streams/145.png" group-title="Entertainment",TV Land Eastern
 https://tvpass.org/live/tv-land-eastern/hd
-#EXTINF:-1 tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="Entertainment",TV One
+#EXTINF:-1 tvg-id="tv-one" tvg-logo="https://images.smartcdn.org/streams/6221.png" group-title="Entertainment",TV One
 https://tvpass.org/live/TVOne/hd
 #EXTINF:-1 tvg-id="universal-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/960px-Universal_Kids_2019_Logo.svg.png" group-title="Kids",Universal Kids HD
 https://tvpass.org/live/UniversalKidsEast/hd
@@ -343,7 +349,25 @@ https://tvpass.org/live/WeTVEast/hd
 https://tvpass.org/live/WPIX/hd
 #EXTINF:-1 tvg-id="yes-network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" group-title="Sports",Yes Network
 https://tvpass.org/live/yes-network/hd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Comedy",The Beverly Hillbillies
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc88701a-0221-11f1-a212-94ecad565329&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78755e14-8d78-43e7-8255-b30acb8a0e3f&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG_1758310637593.png" group-title="Comedy",The Andy Griffith Show
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc886f66-0221-11f1-af26-94ecad565329&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9459ca97-c450-4a32-840b-c0cace4c1f8c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="Entertainment",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+#EXTINF:-1 tvg-id="BeverlyHillbillies.us@US" tvg-logo="	 https://i.imgur.com/OV9hT93.png" group-title="Entertainment",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/featuredImage.jpg?fill=clip&fit=crop&fm=jpg&auto=&ixlib=react-9.1.5&q=70&w=150&h=96&dpr=2" group-title="Entertainment",Stargate
+https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="	 https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="	 https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo '90s
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="	 https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo '80s
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+#EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-logo="	 https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo '70s
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="	 https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-logo="	 https://i.imgur.com/XQrMCkT.png" group-title="Music",XITE Classic Country 
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-logo="	 https://i.imgur.com/uIIUIuN.png" group-title="Music",XITE Rock x Metal 
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
