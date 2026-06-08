@@ -136,7 +136,7 @@ https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-logo="https://images.tvpass.org/streams/30.png" group-title="Live TV",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="Entertainment",Freeform East Feed
-https://tvpass.org/live/FreeformEast/hd
+https://images.dulo.tv/memfs/e7af2de6-2703-47dd-9af1-10b3048b1e9d_output_0.m3u8?session=JT3ks8qXVQ4eRtMxooi4Hs
 #EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-logo="https://images.tvpass.org/streams/90.png" group-title="Entertainment",FUSE TV Eastern feed
 https://tvpass.org/live/FuseEast/hd
 #EXTINF:-1 tvg-id="fx-movie-channel" tvg-logo="https://images.tvpass.org/streams/36.png" group-title="Movies",FX Movie Channel
